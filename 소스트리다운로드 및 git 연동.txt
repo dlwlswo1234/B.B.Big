@@ -1,0 +1,3 @@
+https://blog.naver.com/coding-/221373003347   소스트리 다운로드 및 git hub 연동        #계정 등록시 Bitbucket Server, Atlassian계정이 아닌 Bitbucket을 선택
+
+https://blog.naver.com/asapz/221236143080
